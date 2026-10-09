@@ -1,7 +1,6 @@
 {
   "supporters": [
-    "Ashleyyy",
     { "name": "Sam", "tier": "Gold" },
-    { "name": "Alex", "tier": "Silver", "note": "Thanks for the Scania parts!" }
+    { "name": "Alex", "tier": "Silver" }
   ]
 }
